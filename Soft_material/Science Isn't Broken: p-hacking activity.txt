@@ -1,0 +1,14 @@
+                                                    ** Question.**
+Scientific research has come under attack recently for a lack of replication. Christie Aschwanden, from the political blog FiveThirtyEight, wrote a thought provoking piece about why this is happening.
+
+Link: http://fivethirtyeight.com/features/science-isnt-broken/
+
+Read the article, and explore the interactive application "Hack Your Way to Scientific Glory". As a data scientist, what does this article mean for you, in both how you practice data science, and in how you communicate with the broader public about it?
+
+
+========================================================================================================================================
+                                                       ** Answer.**
+
+Well...first of all this article is not much of a shocking rather i'm having bad feeling because in some cases it's true and for a data science enthusiast like me who mostly deals with metrics and derive conclusions based on that..now imagining how misleading the perspectives or conclusions be if any data science just publishes any biased research about any delicate issue is appalling.   
+
+But we got no other than science to get optmization in this ailing and morally compreomising world. also i do think that journals and research institutions got to be more responsible when it comes to publishing research.
